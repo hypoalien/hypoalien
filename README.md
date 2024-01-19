@@ -2,7 +2,6 @@
 
 <p><h5>Currently living in Tempe, Arizona. </h5> <br/>Masters in Information Technology at <a href="https://www.asu.edu/">Arizona State University</a> </br>Bachlor of Technology in Computer Science at <a href="https://www.gitam.edu/academics/gitam-campuses/hyderabad-campus">Gandhi Institute of Technology </a></br>Full Stack Developer at <a href="https://www.iprogrammer.com/">iProgrammer (2021-2022)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
-🔗 &nbsp;**Connect with me**
 [![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
 [![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
