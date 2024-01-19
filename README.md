@@ -47,9 +47,10 @@ npx anisetty
         ```
 
   </details>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
   [![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
   [![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
   [![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
+
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 ---
