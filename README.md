@@ -29,6 +29,7 @@ npx anisetty
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+
     <!-- BLOG-POST-LIST:END -->
     <details>
       <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
@@ -47,10 +48,11 @@ npx anisetty
         ```
 
   </details>
-  [![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
-  [![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
-  [![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+[![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
+[![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 ---
