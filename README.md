@@ -2,9 +2,7 @@
 
 <p><h5>Currently living in Tempe, Arizona. </h5> <br/>Masters in Information Technology at <a href="https://www.asu.edu/">Arizona State University</a> </br>Bachlor of Technology in Computer Science at <a href="https://www.gitam.edu/academics/gitam-campuses/hyderabad-campus">Gandhi Institute of Technology </a></br>Full Stack Developer at <a href="https://www.iprogrammer.com/">iProgrammer (2021-2022)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
-[![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
-[![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -48,6 +46,10 @@ DJab2JDiwJjAGbDfm56ApSEpsGIbCi+8Eh4dRXczrmq/HmiZSrv9eT/QZUREc0Rs
 jQIDAQAB
 -----END PUBLIC KEY-----
 ```
+
+[![Twitter: anisettyanudeep](https://img.shields.io/twitter/follow/AnisettyAnudeep?style=social)](https://twitter.com/AnisettyAnudeep)
+[![Linkedin: anisettyanudeep](https://img.shields.io/badge/-anisettyanudeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisettyanudeep/)](https://www.linkedin.com/in/anisettyanudeep/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/hypoalien?label=follow&style=social)](https://github.com/hypoalien)
 
 </details>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
