@@ -24,11 +24,10 @@ npx anisetty
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Demystifying P2P Encryption: A Dive into Symmetric and Asymmetric Encryption](https://medium.com/@anisettyanudeep/demystifying-p2p-encryption-a-dive-into-symmetric-and-asymmetric-encryption-1d8b76966137)
+- [Elevate Your Terminal: Exploring the Top Zsh Themes for a Stylish Shell Experience](https://medium.com/p/af43d21ba3dc)
+- [Elevate Your Email Game: Sending Pro Emails with Nodemailer and GoDaddy](https://medium.com/@anisettyanudeep/elevate-your-email-game-sending-pro-emails-with-nodemailer-and-godaddy-2dd73a3ec9a7)
+- [Demystifying the WhatsApp Web/Desktop QR Code Scanning Process](hhttps://medium.com/@anisettyanudeep/demystifying-the-whatsapp-web-desktop-qr-code-scanning-process-9e5a0ba10c2)
 
     <!-- BLOG-POST-LIST:END -->
     <details>
