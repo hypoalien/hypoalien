@@ -27,7 +27,7 @@ npx anisetty
 - [Demystifying P2P Encryption: A Dive into Symmetric and Asymmetric Encryption](https://medium.com/@anisettyanudeep/demystifying-p2p-encryption-a-dive-into-symmetric-and-asymmetric-encryption-1d8b76966137)
 - [Elevate Your Terminal: Exploring the Top Zsh Themes for a Stylish Shell Experience](https://medium.com/p/af43d21ba3dc)
 - [Elevate Your Email Game: Sending Pro Emails with Nodemailer and GoDaddy](https://medium.com/@anisettyanudeep/elevate-your-email-game-sending-pro-emails-with-nodemailer-and-godaddy-2dd73a3ec9a7)
-- [Demystifying the WhatsApp Web/Desktop QR Code Scanning Process](hhttps://medium.com/@anisettyanudeep/demystifying-the-whatsapp-web-desktop-qr-code-scanning-process-9e5a0ba10c2)
+- [Demystifying the WhatsApp Web/Desktop QR Code Scanning Process](https://medium.com/@anisettyanudeep/demystifying-the-whatsapp-web-desktop-qr-code-scanning-process-9e5a0ba10c2)
 
     <!-- BLOG-POST-LIST:END -->
     <details>
