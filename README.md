@@ -1,7 +1,6 @@
 ### Hi, I am Anudeep Anisetty <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<p><h5>Currently living in Tempe, Arizona. </h5> <br/>Masters in Information Technology at <a href="https://www.asu.edu/">Arizona State University</a> </br>Bachlor of Technology in Computer Science at <a href="https://www.gitam.edu/academics/gitam-campuses/hyderabad-campus">Gandhi Institute of Technology </a></br>Full Stack Developer at <a href="https://www.iprogrammer.com/">iProgrammer (2021-2022)</a>
-</p>
+
 
 This is the place where I opensource stuff and break things :rofl:
 
