@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning browser Fingerprinting, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or /React/Express/AWS
-- 👨‍💻 &nbsp;Read more about my projects at [techwithdeep.com](https://www.techwithdeep.com/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [anuu.my](https://www.anuu.my/#portfolio)
 
 ---
 
